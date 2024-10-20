@@ -1,0 +1,14 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+aiohttp==3.10.9
+python-dotenv==1.0.1
+sqlalchemy==2.0.35
+alembic==1.13.3
+asyncpg==0.29.0
+python-dateutil==2.9.0.post0
+greenlet==3.1.1
+psycopg2-binary==2.9.9
+gunicorn
+fastapi-cache2[redis]
+fastapi-utils==0.7.0
+aio-pika==8.2.4
