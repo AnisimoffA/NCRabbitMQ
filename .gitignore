@@ -1,0 +1,6 @@
+# Project exclude paths
+/myenv/
+/.idea
+/.__py
+/.__pycache__
+/.pytest_cache
